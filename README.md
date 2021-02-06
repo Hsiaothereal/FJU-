@@ -6,5 +6,5 @@
 
 #Tools
 VSC、Apache、PHP、HTML、CSS、SQL
-DB:MySQL workbench
+#DB:MySQL workbench
 
